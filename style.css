@@ -388,10 +388,10 @@ About Css End
 
 /*
 ============================
-praktijk Css Start
+Paktijk Css Start
 ============================
 */
-.praktijk-section {
+.paktijk-section {
 	padding-top: 50px;
 	padding-bottom: 60px;
 }
@@ -401,19 +401,19 @@ praktijk Css Start
 	font-weight: 600;
 	margin-top: 20px;
   }
-  .praktijk-icon {
+  .paktijk-box-icon {
 	float: left;
 	margin-right: 20px;
   }
-  .praktijk-content {
+  .paktijk-content {
 	overflow: hidden;
   }
-  .praktijk-content h5 {
+  .paktijk-content h5 {
 	font-size: 17px;
 	margin-bottom: 10px;
 	font-weight: 700;
 }
-  .praktijk-boxes {
+  .paktijk-content-boxes {
 	margin-top: 70px;
   }
   @media only screen and (max-width:991px) {
@@ -421,7 +421,7 @@ praktijk Css Start
 		font-size: 36px;
 		margin-top: 20px;
 	}
-	.praktijk-boxes {
+	.paktijk-content-boxes {
 		margin-top: 45px;
 	}
 
@@ -431,23 +431,23 @@ praktijk Css Start
 		font-size: 26px;
 		margin-top: 15px;
 	}
-	.praktijk-icon {
+	.paktijk-box-icon {
 		float: initial;
 	}
-	.praktijk-boxes {
+	.paktijk-content-boxes {
 		margin-top: 40px;
 		text-align: center;
 	}
-	.praktijk-content h5 {
+	.paktijk-content h5 {
 		margin-top: 20px;
 	}
-	.praktijk-content p {
+	.paktijk-content p {
 		font-size: 15px;
 	}
   }
 /*
 ============================
-praktijk Css End
+Paktijk Css End
 ============================
 */
 
